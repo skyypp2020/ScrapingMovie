@@ -1,5 +1,7 @@
 # 電影資料爬蟲與視覺化專案 (Movie Scraping & Visualization)
 
+**DemoSite**: [https://scrapingmovie-8vjsku3ytxrttwnnqqhap2.streamlit.app/](https://scrapingmovie-8vjsku3ytxrttwnnqqhap2.streamlit.app/)
+
 本專案採用 **CRISP-DM (Cross-Industry Standard Process for Data Mining)** 跨產業資料探勘標準流程進行開發，旨在自動化抓取網路上的電影資料，進行資料儲存，並透過互動式網頁應用程式進行資料展示與分析。
 
 ## 1. 商業理解 (Business Understanding)
